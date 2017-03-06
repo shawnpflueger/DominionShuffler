@@ -1,0 +1,12 @@
+<groups xmlns="http://www.isdc.ro/wro">
+	<group name="angular-bootstrap"> <!-- need to get filtering going in here -->
+		<css>webjar:bootstrap/3.3.7-1/less/bootstrap.less</css>
+		<css>file:./src/main/wro/main.less</css>
+		<js>webjar:jquery/3.1.1-1/jquery.min.js</js>
+		<!-- <js>webjar:jquery/${jquery.version}/jquery.js</js> -->
+		<js>webjar:angularjs/1.5.9/angular.min.js</js>
+		<!-- <js>webjar:angularjs/${angular.version}/angular.js</js> -->
+		<!-- <js>webjar:angularjs/${angular.version}/angular-route.min.js</js> -->
+		<!-- <js>webjar:angularjs/${angular.version}/angular-route.js</js> -->
+	</group>
+</groups>
